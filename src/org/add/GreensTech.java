@@ -17,7 +17,13 @@ public void greensVelacherry() {
 public void greensAnnaNagar() {
 	System.out.println("In ANNANAGAR");
 }
-	
+public  void greensCbe() {
+	System.out.println("In Gandhipuram");
+}
+public void greensVadapalani() {
+	System.out.println("In Vadapalani");
+
+}
 				
 
 	}
