@@ -24,6 +24,14 @@ public void greensVadapalani() {
 	System.out.println("In Vadapalani");
 
 }
+
+	public void greensDelhi() {
+		System.out.println("In Delhi");
+
+	}
+
+
+
 				
 
 	}
