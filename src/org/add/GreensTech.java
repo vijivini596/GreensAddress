@@ -17,7 +17,10 @@ public void greensVelacherry() {
 public void greensAnnaNagar() {
 	System.out.println("In ANNANAGAR");
 }
-	
+	public void greensDelhi() {
+		System.out.println("In Delhi");
+
+	}
 				
 
 	}
